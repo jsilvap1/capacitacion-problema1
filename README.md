@@ -3,6 +3,7 @@ Capacitación: Git, bash y docker
 Integrantes:
 - jonathan Silva
 - Juan Pedro Barriga
+- Carlos Gomez
 1. Es un versionador de código que permite controlar los cambios realizados..
 2. Ambos son repositorios.
 3. Nos sirven para identificar las computadores de confianza y son generados para cada usuario.
